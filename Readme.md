@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Maria Savushkina](https://up.htmlacademy.ru/htmlcss/18/user/497041).
-* Наставник: [Artem Altigin](https://htmlacademy.ru/profile/artem
+* Наставник: [Artem Altigin](https://htmlacademy.ru/profile/artem)
 
 ---
 
